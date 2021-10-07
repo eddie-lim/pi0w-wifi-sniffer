@@ -1,0 +1,15 @@
+{
+  "name": "wifi-scanner",
+  "version": "1.0.0",
+  "description": "wifi scanner that counts the traffic nearby, periodically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eddie",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csv-parser": "^3.0.0"
+  }
+}

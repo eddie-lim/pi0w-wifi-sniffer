@@ -1,0 +1,6 @@
+[Unit]
+Description=airodump
+
+[Service]
+Type=idle
+ExecStart=/bin/bash /home/pi/airodump.sh
